@@ -16,4 +16,4 @@ if __name__ == '__main__':
             count += 1
         else:
             count -= 1
-    print count
+    print(count)
